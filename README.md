@@ -1,7 +1,7 @@
 # patternsee
 
 
-GET /{number}?animal=Dog
+GET /{number}?animal=nl.han.oose.dea.meron.patternsee.Dog
 
 Returns String containing the {number} 
 of consecutive animal sounds

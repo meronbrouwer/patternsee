@@ -1,3 +1,5 @@
+package nl.han.oose.dea.meron.patternsee;
+
 public class Cat {
 
     private static final String MIAUW = "Miauw";

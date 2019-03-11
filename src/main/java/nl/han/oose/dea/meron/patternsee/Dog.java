@@ -1,3 +1,5 @@
+package nl.han.oose.dea.meron.patternsee;
+
 import java.util.stream.IntStream;
 
 public class Dog {
